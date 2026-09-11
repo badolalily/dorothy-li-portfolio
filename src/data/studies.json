@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Visual Study 01",
+    "type": "Visual exploration",
+    "video": "/media/study-01.mp4",
+    "missing": false,
+    "text": "A moving-image study from my visual exploration archive."
+  },
+  {
+    "name": "Visual Study 02",
+    "type": "Visual exploration",
+    "video": "/media/study-02.mp4",
+    "missing": false,
+    "text": "A moving-image study from my visual exploration archive."
+  },
+  {
+    "name": "Visual Study 03",
+    "type": "Visual exploration",
+    "video": "/media/study-03.mp4",
+    "missing": false,
+    "text": "A moving-image study from my visual exploration archive."
+  },
+  {
+    "name": "Visual Study 04",
+    "type": "Visual exploration",
+    "video": "/media/study-04.mp4",
+    "missing": false,
+    "text": "A moving-image study from my visual exploration archive."
+  },
+  {
+    "name": "Visual Study 05",
+    "type": "Visual exploration",
+    "video": "/media/study-05.mp4",
+    "missing": false,
+    "text": "A moving-image study from my visual exploration archive."
+  },
+  {
+    "name": "Visual Study 06",
+    "type": "Visual exploration",
+    "video": "/media/study-06.mp4",
+    "missing": false,
+    "text": "A moving-image study from my visual exploration archive."
+  },
+  {
+    "name": "Visual Study 07",
+    "type": "Visual exploration",
+    "video": "/media/study-07.mp4",
+    "missing": false,
+    "text": "A moving-image study from my visual exploration archive."
+  },
+  {
+    "name": "Visual Study 08",
+    "type": "Visual exploration",
+    "video": "/media/study-08.mp4",
+    "missing": false,
+    "text": "A moving-image study from my visual exploration archive."
+  }
+]

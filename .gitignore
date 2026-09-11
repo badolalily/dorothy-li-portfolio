@@ -1,0 +1,12 @@
+node_modules/
+dist/
+public/
+pro/
+*.png
+*.pdf
+src/*.previous.*
+.reference/
+Aproject/
+CONTENT-REVIEW.md
+!site-public/**/*.png
+!site-public/**/*.pdf

@@ -1,0 +1,38 @@
+{
+  "ae01": {
+    "1": {
+      "src": "/scripts/AE01-shot-01.png",
+      "alt": "AE01 storyboard reference for shot 01"
+    },
+    "4": {
+      "src": "/scripts/AE01-shot-04.png",
+      "alt": "AE01 storyboard reference for shot 04"
+    },
+    "7": {
+      "src": "/scripts/AE01-shot-07.png",
+      "alt": "AE01 storyboard reference for shot 07"
+    },
+    "9": {
+      "src": "/scripts/AE01-shot-09.png",
+      "alt": "AE01 storyboard reference for shot 09"
+    }
+  },
+  "ae02": {
+    "1": {
+      "src": "/scripts/AE02-shot-01.png",
+      "alt": "AE02 storyboard reference for shot 01"
+    },
+    "2": {
+      "src": "/scripts/AE02-shot-02.png",
+      "alt": "AE02 storyboard reference for shot 02"
+    },
+    "6": {
+      "src": "/scripts/AE02-shot-06.png",
+      "alt": "AE02 storyboard reference for shot 06"
+    },
+    "10": {
+      "src": "/scripts/AE02-shot-10.png",
+      "alt": "AE02 storyboard reference for shot 10"
+    }
+  }
+}

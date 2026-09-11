@@ -1,0 +1,21 @@
+import {useState,useRef,useEffect,useCallback} from 'react'
+import {AnimatePresence,motion,useReducedMotion} from 'framer-motion'
+import SlideBackground from './components/SlideBackground'
+import OuterLight from './components/OuterLight'
+import {ChevronLeft,ChevronRight} from 'lucide-react'
+import PortfolioPages from './PortfolioPages'
+import ProjectModal from './ProjectModal'
+const slideOrder=[0,2,1,3,4,5,6]
+const labels=['Introduction','Creative process','Selected work','More work','Recent thoughts','Experience & skills','Contact']
+function DeckFrame({children}){const ref=useRef(null);const [scale,setScale]=useState(1);useEffect(()=>{const observer=new ResizeObserver(([entry])=>setScale(entry.contentRect.width/1600));observer.observe(ref.current);return()=>observer.disconnect()},[]);return <div className="presentation-backdrop"><OuterLight/><div className="presentation-frame" ref={ref}><div className="presentation-canvas" style={{transform:`scale(${scale})`}}>{children}</div></div></div>}
+const variants={enter:{opacity:0},center:{opacity:1},exit:{opacity:0}}
+export default function App(){
+ const reduced=useReducedMotion();
+ const [index,setIndex]=useState(0),[direction,setDirection]=useState(1),[active,setActive]=useState(null)
+ const current=useRef(0),lock=useRef(0),touch=useRef(null)
+ const go=useCallback(n=>{if(n<0||n>6||n===current.current||Date.now()<lock.current)return;lock.current=Date.now()+450;setDirection(n>current.current?1:-1);current.current=n;setIndex(n)},[])
+ useEffect(()=>{const wheel=e=>{if(active)return;const track=e.target.closest('[data-horizontal]');if(track){e.preventDefault();track.scrollLeft+=Math.abs(e.deltaX)>Math.abs(e.deltaY)?e.deltaX:e.deltaY;return;}const delta=Math.abs(e.deltaX)>Math.abs(e.deltaY)?e.deltaX:e.deltaY;if(Math.abs(delta)>30){e.preventDefault();go(current.current+Math.sign(delta))}};const key=e=>{if(active||e.target.closest('input,textarea,select,[contenteditable=true]'))return;if(e.code==='Space'&&e.target.closest('button,a'))return;if(['ArrowRight','ArrowDown','Space','ArrowLeft','ArrowUp'].includes(e.code)){e.preventDefault();go(current.current+(['ArrowRight','ArrowDown','Space'].includes(e.code)?1:-1))}};window.addEventListener('wheel',wheel,{passive:false});window.addEventListener('keydown',key);return()=>{window.removeEventListener('wheel',wheel);window.removeEventListener('keydown',key)}},[go,active])
+ const templateIndex=slideOrder[index]
+ return <><DeckFrame><main className="deck" onTouchStart={e=>{if(active||e.target.closest('[data-horizontal]')){touch.current=null;return}touch.current=[e.touches[0].clientX,e.touches[0].clientY]}} onTouchEnd={e=>{if(!touch.current)return;const dx=touch.current[0]-e.changedTouches[0].clientX,dy=touch.current[1]-e.changedTouches[0].clientY;if(Math.abs(dx)>60&&Math.abs(dx)>Math.abs(dy))go(index+Math.sign(dx));touch.current=null}}><SlideBackground index={index}/><AnimatePresence mode="wait" custom={direction}><motion.section key={index} className={`slide slide-${templateIndex+1} portfolio-page-${index+1}`} custom={direction} variants={variants} initial="enter" animate="center" exit="exit" transition={{duration:reduced?0:.16,ease:[.4,0,.2,1]}} aria-label={labels[index]}><div className="content"><PortfolioPages index={index} go={go} open={setActive}/></div></motion.section></AnimatePresence><nav className="controls" aria-label="Slide navigation"><div className="slide-info"><span>{String(index+1).padStart(2,'0')} / 07</span><i className="divider"/><AnimatePresence mode="wait"><motion.span className="slide-label" key={index} initial={{opacity:0,y:5}} animate={{opacity:1,y:0}} exit={{opacity:0,y:-5}}>{labels[index]}</motion.span></AnimatePresence></div><div className="control-right"><div className="dots">{labels.map((x,i)=><button key={x} className={i===index?'active':''} aria-label={`Go to ${x}`} aria-current={i===index?'step':undefined} onClick={()=>go(i)}/>)}</div><span className="divider"/><button className="arrow" disabled={index===0} aria-label="Previous slide" onClick={()=>go(index-1)}><ChevronLeft size={16}/></button><button className="arrow" disabled={index===6} aria-label="Next slide" onClick={()=>go(index+1)}><ChevronRight size={16}/></button></div></nav></main></DeckFrame>{active&&<ProjectModal item={active} onClose={()=>setActive(null)}/>}</>
+}
+

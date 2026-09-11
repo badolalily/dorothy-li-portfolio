@@ -1,0 +1,1018 @@
+{
+  "featured": [
+    {
+      "name": "Flash Party",
+      "type": "Character Reveal / Gameplay Creative",
+      "category": "",
+      "duration": "28s",
+      "text": "A roster reveal doesn't have to feel like a list.",
+      "overview": "Instead of cutting straight to gameplay, I open on a quiet toy-room scene, letting each character feel like something waking up rather than simply being announced — shifting the reveal from \"here's the cast\" to \"watch this come alive.\" That idea carries through the pacing and visual language. Glitch distortion builds anticipation before each reveal, while distinct colour identities extend from character introductions into their skill effects. I deliberately keep the real in-game HUD visible rather than polishing everything into clean CG — keeping the spectacle grounded in what players will actually experience. At 28 seconds, the piece still moves at feed speed, but the goal is to give each character enough space to register as a personality, not just another name card flashing past.",
+      "tags": [
+        "Character Awakening",
+        "Glitch Transition",
+        "Authentic Gameplay"
+      ],
+      "video": "/media/featured-01.mp4"
+    },
+    {
+      "name": "Sausage Man",
+      "type": "Gameplay-Led Creative / Casual & Comedy",
+      "category": "",
+      "duration": "27s",
+      "text": "Making chaos readable.",
+      "overview": "Sausage Man is naturally loud, playful and unpredictable — so the challenge wasn't adding more energy, but giving that energy a shape. Left unstructured, footage this chaotic can quickly turn into noise rather than fun. I built the edit around clear comedy beats — giving each ridiculous encounter just enough setup to register before accelerating into the next. Sniper shots, chaotic firefights and absurd character moments are cut for contrast rather than constant intensity, keeping the pace fast without making every moment feel the same. The result keeps the game's exaggerated personality intact while making the action easy to follow at feed speed. Rather than feeling like a conventional gameplay montage, it plays as a sequence of small visual punchlines.",
+      "tags": [
+        "Readable Chaos",
+        "Comedy Pacing",
+        "Gameplay Clarity"
+      ],
+      "video": "/media/featured-02.mp4"
+    },
+    {
+      "name": "TapTap Game Awards",
+      "type": "Brand / Multi-Title Showcase",
+      "category": "",
+      "duration": "31s",
+      "text": "Different games. One identity.",
+      "overview": "This piece isn't about one game — it's about bringing a lineup of completely different titles under a single event identity. With each game carrying its own art style, pace and tone, the challenge was making those differences feel intentional rather than disconnected. I used the title cards as visual anchors between shifts in genre and style — from pixel-art platforming to close-quarters combat and boss encounters. Each segment gets enough room to establish its own character, while the recurring award graphics, cool-toned visual treatment and pacing keep pulling everything back into the same visual system. The result feels less like a compilation and more like a curated showcase: each game gets its own moment, while the piece still reads as one coherent TapTap event.",
+      "tags": [
+        "Brand Cohesion",
+        "Multi-Title Curation",
+        "Visual Rhythm"
+      ],
+      "video": "/media/featured-03.mp4"
+    },
+    {
+      "name": "Torchlight: Infinite",
+      "type": "Cinematic-to-Gameplay / ARPG Creative",
+      "category": "",
+      "duration": "22s",
+      "text": "From spectacle to gameplay — without losing momentum.",
+      "overview": "The piece opens small: four contrasting characters packed into a car, using banter and reaction to establish personality before the scale suddenly expands — an approaching horde, followed by magic, fire and full cinematic spectacle. The key challenge was carrying that momentum into the gameplay reveal. Moving from cinematic CG to an isometric combat view creates an obvious shift in scale and visual language, so I treated the transition as part of the same escalation rather than a reset. The pacing stays aggressive across the cut, with the gameplay arriving as the payoff to what the cinematic sequence has built up. The result is a continuous progression from character-driven setup to large-scale spectacle and finally real combat — connecting the fantasy promised by the CG with the experience shown in-game.",
+      "tags": [
+        "Cinematic Momentum",
+        "Scale Escalation",
+        "Combat Payoff"
+      ],
+      "video": "/media/featured-04.mp4"
+    }
+  ],
+  "works": [
+    {
+      "name": "Aether of Fantasy — Pre-Registration",
+      "type": "Campaign / Pre-Registration Incentive",
+      "category": "campaign",
+      "duration": "27s",
+      "text": "Make the reward feel bigger than the ask.",
+      "overview": "I built the piece around one idea: make a pre-registration reward feel like an event rather than a checkbox. The card-pack reveal, cosmic build-up and glowing chest suspended above the earth give a familiar sign-up incentive the scale and anticipation of a major in-game reward. The pacing follows that escalation — establish the scale, tease what's inside, hold for anticipation, then release into the full reward reveal before the CTA arrives. I held scarcity messaging until the end, after the reward had already earned enough visual weight to make the urgency feel deserved rather than pushy. Instead of asking for the registration first and explaining the value second, I reversed that order: build desire, reveal value, then ask for action.",
+      "tags": [
+        "Reward Reveal",
+        "Value-to-CTA",
+        "Pre-Registration Campaign"
+      ],
+      "video": "/media/more-01.mp4"
+    },
+    {
+      "name": "Sausage Man — Season Reveal",
+      "type": "Campaign / Mystery-Led Season Reveal",
+      "category": "campaign",
+      "duration": "23s",
+      "text": "Give the reveal a mystery to open with.",
+      "overview": "A season announcement can easily read as a routine update notice. Instead of naming the season upfront, I used a masked, unidentified figure as the hook — concealment, pursuit, transformation, reveal — before the season title and download prompt land together at the end. Holding the reveal until the transformation sequence gives the audience a reason to keep watching before the campaign message arrives, turning what could have been a standard announcement into a curiosity-driven reveal.",
+      "tags": [
+        "Mystery-Led Reveal",
+        "Curiosity Hook",
+        "Season Campaign"
+      ],
+      "video": "/media/more-02.mp4"
+    },
+    {
+      "name": "One Hundred Scenes of Jiangnan — Anniversary",
+      "type": "Campaign / Anniversary Content Update",
+      "category": "campaign",
+      "duration": "35s",
+      "text": "An anniversary that doesn't rush.",
+      "overview": "I brought three announcements — a new region, a seasonal activity and a returning reward — into one anniversary campaign while staying true to the game's deliberately calm visual language. Rather than compressing everything into a fast update reel, I gave each announcement its own clear beat. Ink-wash transitions, illustrated characters and restrained pacing create continuity between sections, while title cards keep the individual updates easy to distinguish. The challenge was delivering a relatively dense set of campaign messages without forcing the game into a faster advertising language that doesn't belong to it — keeping the information clear while preserving the tone players already associate with the experience.",
+      "tags": [
+        "Brand Consistency",
+        "Multi-Update Structure",
+        "Campaign Communication"
+      ],
+      "video": "/media/more-03.mp4"
+    },
+    {
+      "name": "[QY] — Spokesperson Campaign",
+      "type": "Campaign / Celebrity Endorsement",
+      "category": "campaign",
+      "duration": "29s",
+      "text": "From face to offer, without competing for attention.",
+      "overview": "The challenge was that the spokesperson, offer and gameplay were all competing for the same few seconds of attention. I separated them instead of stacking them — the spokesperson's face opens the piece, then steps aside as the value proposition takes over, and real combat footage closes it out. Each section gets its own uninterrupted space rather than competing with the others for attention, turning what could have been three overlapping messages into a clean hand-off from one focus to the next.",
+      "tags": [
+        "Attention Handoff",
+        "Information Hierarchy",
+        "Endorsement-to-Offer Structure"
+      ],
+      "video": "/media/more-04.mp4"
+    },
+    {
+      "name": "Pixel Hero — Code Redemption",
+      "type": "Campaign / Creative Mechanic Ad",
+      "category": "campaign",
+      "duration": "19s",
+      "text": "Make the code impossible to miss.",
+      "overview": "Most coupon codes get tacked onto the end of an ad as a small text overlay. I built this one the opposite way — the code runs as a repeating diagonal border around the frame for nearly the entire runtime, so it stays visible no matter what's happening in the footage underneath. I paired that persistent visibility with a direct, simple promise — take the hero you want, right now — delivered by a character speaking straight to camera rather than a caption explaining the offer. A brief gameplay beat reconnects that promotional message to the game itself without taking attention away from the code. The approach treats the code itself as the creative asset, not a detail to mention — if a viewer remembers nothing else, they remember PIXEL0607.",
+      "tags": [
+        "Code-Led Creative",
+        "Persistent Visibility",
+        "Promo Mechanic"
+      ],
+      "video": "/media/more-05.mp4"
+    },
+    {
+      "name": "Space Leaper Cocoon — Pre-Registration",
+      "type": "Character / Pre-Registration PV",
+      "category": "character",
+      "duration": "34s",
+      "text": "One roster. No single visual language.",
+      "overview": "With a roster this visually varied, forcing every character into one treatment would flatten the very thing that makes the cast interesting. So I moved rapidly between characters, giving each reveal its own colour, texture and motion language — from soft pastel close-ups to glitch-heavy digital effects and neon transit imagery — rather than forcing the roster into a uniform template. The fast transitions became the structure: each new character resets the visual mood, while recurring framing and pacing keep the sequence connected as one roster showcase. My approach was to sell the cast through contrast — building a sense of variety without asking every character to fit the same visual mould.",
+      "tags": [
+        "Character Differentiation",
+        "Visual Contrast",
+        "Roster Pacing"
+      ],
+      "video": "/media/more-06.mp4"
+    },
+    {
+      "name": "Light of Thel — Gacha Character Reveal",
+      "type": "Character / Roster Showcase",
+      "category": "character",
+      "duration": "32s",
+      "text": "Make repetition part of the reveal.",
+      "overview": "The challenge with a multi-character reveal is giving every character enough identity without letting the sequence become repetitive. I turned that repetition into the structure itself — identity first, cinematic payoff second, with name, voice-actor credit and rarity establishing who's being introduced before the CG shot gives that character a moment of spectacle. Instead of competing for attention through increasingly bigger reveals, each character enters through the same visual framework, building anticipation through familiarity while keeping the roster balanced.",
+      "tags": [
+        "Roster Reveal",
+        "Reveal Rhythm",
+        "Character Spectacle"
+      ],
+      "video": "/media/more-07.mp4"
+    },
+    {
+      "name": "Life Makeover — Pre-Registration",
+      "type": "Character / Beat-Sync Fashion Reveal",
+      "category": "character",
+      "duration": "30s",
+      "text": "A new identity on every beat.",
+      "overview": "I moved between sharply contrasting fashion identities — from an elaborate traditional-inspired look in a golden gallery to minimalist streetwear in a modern wardrobe — timing each transformation directly to the music. The contrast between each look creates the visual surprise, while the beat gives every transition its timing and momentum. Rather than treating the outfits as a static showcase, each change becomes its own reveal. After a sequence of fast transformations, the pacing drops away for a quieter final message. That shift gives the piece an emotional landing point instead of ending on another visual beat — moving from fashion spectacle into a softer brand moment.",
+      "tags": [
+        "Beat-Sync Editing",
+        "Fashion Transformation",
+        "Tonal Shift"
+      ],
+      "video": "/media/more-08.mp4"
+    },
+    {
+      "name": "Flash Party — Tina Spotlight",
+      "type": "Character / Contrast-Led Spotlight",
+      "category": "character",
+      "duration": "19s",
+      "text": "She doesn't fight like she looks.",
+      "overview": "I built the piece around the contrast between Tina's first impression and how she actually performs in a fight. Her character artwork establishes one side of that personality, while the split-screen immediately puts it against real match footage — letting appearance and action tell two different stories at once. The edit leans into that contrast through a sequence of combat moments, using Tina's in-game movement, attacks and reactions to reveal a more aggressive and unpredictable side of the character. The gameplay isn't just there to demonstrate how she plays — it becomes part of the characterization. By the time the final character lockup appears, the appeal comes from the gap between expectation and behaviour — turning a short match highlight into a character-driven reveal.",
+      "tags": [
+        "Character Contrast",
+        "Expectation vs. Behaviour",
+        "Gameplay Characterization"
+      ],
+      "video": "/media/more-09.mp4"
+    },
+    {
+      "name": "Snowbreak — Mia Spotlight",
+      "type": "Character / Scrapbook Reveal",
+      "category": "character",
+      "duration": "15s",
+      "text": "A photo collage instead of a single hero shot.",
+      "overview": "A single polished hero render risks making Mia read as a product shot rather than someone you'd actually want to know. I wanted the reveal to feel more personal, playful and approachable, so I introduced her through a polaroid-style scrapbook instead — multiple character images overlapping at odd angles, paired with a handwritten-style tagline instead of a stat sheet. I held the in-game 3D render back until afterward, closing on a fragment of her own dialogue captioned underneath — letting the informality of the scrapbook set the tone before the polished asset arrives.",
+      "tags": [
+        "Scrapbook Framing",
+        "Character Personality",
+        "Informal Reveal"
+      ],
+      "video": "/media/more-10.mp4"
+    },
+    {
+      "name": "Ash Echoes",
+      "type": "Character / Cinematic-to-Gameplay",
+      "category": "character",
+      "duration": "41s",
+      "text": "The fight in the trailer is the fight you'll actually play.",
+      "overview": "I open on a cinematic character introduction — a rooftop pose, a sword drawn against a stormy sky — before cutting into real squad-based combat: multiple characters, ability icons, numbered markers, all in an isometric street fight. The goal was to prevent the transition into real gameplay from feeling like a drop in spectacle. I kept the cinematic and the gameplay tied to the same character designs and colour language, so the transition reads as a continuation of the same combat fantasy — using visual continuity to make the cinematic promise feel achievable rather than separate from the actual game.",
+      "tags": [
+        "Cinematic-to-Gameplay",
+        "Combat Continuity",
+        "Gameplay Authenticity"
+      ],
+      "video": "/media/more-11.mp4"
+    },
+    {
+      "name": "Torchlight: Infinite — Skill Showcase",
+      "type": "Character / Build & Skill Showcase",
+      "category": "character",
+      "duration": "24s",
+      "text": "Give each skill a tag, not just a name.",
+      "overview": "Each skill — from Splitting Firebolt to Chain Lightning — is introduced with its name and a compact set of tags describing attributes such as damage type, behaviour and effect. Instead of explaining those mechanics through voiceover, I compressed several layers of information into something the viewer can scan at a glance. The tags appear alongside real combat footage, so the information is immediately paired with what the skill actually does on screen. Projectiles split, lightning chains between targets, and area effects play out while their defining attributes remain visible — turning the gameplay itself into the explanation. My goal was to make a systems-heavy part of the game easier to read without stripping away its depth: identify the skill, understand its traits, then watch it play out in combat.",
+      "tags": [
+        "Skill Communication",
+        "Information Design",
+        "Build Readability"
+      ],
+      "video": "/media/more-12.mp4"
+    },
+    {
+      "name": "Fortnite",
+      "type": "Gameplay / Multi-Experience Showcase",
+      "category": "gameplay",
+      "duration": "23s",
+      "text": "Three playstyles. No downtime.",
+      "overview": "Fortnite already has strong recognition, so I didn't want to spend the opening explaining what the game is. Instead, I selected three sharply different experiences — mounted-gun combat, high-speed traversal and a character-led spectacle moment — to show how much variety the game can deliver within 23 seconds. I arranged them around contrast rather than similarity. Combat opens fast and close, traversal expands the frame and introduces a sense of freedom, then the final spectacle slows the rhythm enough to give the piece a visual payoff. Each beat resets the viewer's attention while revealing a different side of the experience. The idea was simple: for a game people already know, don't reintroduce it — give them three different reasons to want to come back.",
+      "tags": [
+        "Experience Curation",
+        "Playstyle Contrast",
+        "Interest Re-Activation"
+      ],
+      "video": "/media/more-13.mp4"
+    },
+    {
+      "name": "Sausage Man — New Mode",
+      "type": "Gameplay / Update Showcase",
+      "category": "gameplay",
+      "duration": "30s",
+      "text": "One update, three different games to play.",
+      "overview": "I sold the update through variety rather than depth. A freeze-and-move party challenge gives way to open combat, which gives way to a cooperative objective built around depositing loot as a team — three distinct ways to play, cut together with barely a beat between them. None of the mechanics get more than a few seconds on screen, giving the update a sense of range rather than settling on a single mechanic. The chaos speech-bubble captions keep the tone consistent with the game's usual humour even as the mechanics shift underneath it.",
+      "tags": [
+        "Mechanic Variety",
+        "Update Showcase",
+        "Gameplay Sampling"
+      ],
+      "video": "/media/more-14.mp4"
+    },
+    {
+      "name": "Devil May Cry — Pre-Registration",
+      "type": "Gameplay / Combat Showcase",
+      "category": "gameplay",
+      "duration": "25s",
+      "text": "Let the combo counter do the talking.",
+      "overview": "The piece stays almost entirely inside real combat — aerial combos, weapon switches and on-screen rating feedback turning each successful sequence into its own visual payoff. Two playable characters appear in succession, letting their different combat styles create variation without interrupting the pace with explanation. I left the in-game UI visible throughout. Combo ratings, character information and combat feedback become part of the presentation rather than something to hide, keeping the spectacle grounded in what the player actually sees and controls. Instead of explaining the combat system, I let responsiveness do the selling — each hit, switch and rating update gives the viewer immediate feedback on how the action feels.",
+      "tags": [
+        "Combat Feedback",
+        "Gameplay Authenticity",
+        "Character Switching"
+      ],
+      "video": "/media/more-15.mp4"
+    },
+    {
+      "name": "Super Animal Royale",
+      "type": "Gameplay / Feature-Led Creative",
+      "category": "gameplay",
+      "duration": "34s",
+      "text": "Say it, then show it.",
+      "overview": "I took a direct approach: introduce a feature in a short, simple line, then immediately show it in action. Each message is paired with a clear gameplay moment, turning the footage into visual proof rather than leaving the viewer to connect the dots. The challenge was keeping that repeated structure from becoming predictable. Some claims land quickly, while others get an extra beat of gameplay before moving on, creating enough variation to keep the information moving at ad pace. Instead of building around a single mood or spectacle, I made the game's features the hook — for a feature-heavy game, I didn't want the viewer decoding gameplay first and understanding the selling point afterward. Say it, show it, move on.",
+      "tags": [
+        "Feature Communication",
+        "Claim-to-Proof",
+        "Gameplay Clarity"
+      ],
+      "video": "/media/more-16.mp4"
+    },
+    {
+      "name": "Pokémon Quest — Game Intro",
+      "type": "Gameplay / Feature Walkthrough",
+      "category": "gameplay",
+      "duration": "30s",
+      "text": "One feature. One screen. One clear takeaway.",
+      "overview": "I broke the game into three clear feature moments — collection, co-op combat and social interaction — giving each one its own screen and headline rather than combining everything into a continuous gameplay reel. Each section uses a distinct colour treatment and character anchor, creating a visual reset as the focus shifts from one system to the next. That separation makes a relatively broad feature set easier to scan without losing the sense that everything belongs to the same game. My goal was to turn a general game introduction into a sequence of focused takeaways: one system, one visual idea, then move on.",
+      "tags": [
+        "Feature Communication",
+        "Information Structure",
+        "System Variety"
+      ],
+      "video": "/media/more-17.mp4"
+    },
+    {
+      "name": "Pixel Hero — Reward-to-Gameplay",
+      "type": "Gameplay / Creative Mechanic Ad",
+      "category": "gameplay",
+      "duration": "25s",
+      "text": "Get the hero. Then see what she can do.",
+      "overview": "I open on a pull result — \"Hero Obtained\" — rather than a character-select screen, so the excitement of getting a new hero comes before anything about how she plays. That ordering changes what the dodge sequence that follows is doing: instead of teaching a mechanic cold, it answers the question the reward just raised. I kept the dodge-the-hazard gameplay exactly as readable as before — no rules text, just enough visual clarity to follow at a glance — but now it reads as a payoff to the pull rather than a stand-alone tutorial. Ending on the full character grid expands that single reward into a wider collection context — moving from acquisition, to gameplay, to roster within one compact sequence.",
+      "tags": [
+        "Reward-Led Sequencing",
+        "Gameplay Payoff",
+        "Collection Context"
+      ],
+      "video": "/media/more-18.mp4"
+    },
+    {
+      "name": "Sausage Man — Tone Contrast",
+      "type": "Gameplay / Tonal Contrast",
+      "category": "gameplay",
+      "duration": "22s",
+      "text": "Ranked kills. Cartoon celebration.",
+      "overview": "I cut between two very different registers within the same match: a tense elimination sequence with real combat stats on screen, a quiet scenic stretch of open map, then a glitch-heavy, oversaturated celebration shot when a kill lands. Each mode gets its own visual treatment rather than being smoothed into one consistent tone. That contrast was the point — I didn't want to pick a single mood to sell the game with. Moving from competitive tension to calm to full cartoon excess lets the contrast between those states carry more energy than any one of them would alone.",
+      "tags": [
+        "Tonal Contrast",
+        "Dynamic Pacing",
+        "Visual Exaggeration"
+      ],
+      "video": "/media/more-19.mp4"
+    },
+    {
+      "name": "Torchlight: Infinite — Build Payoff",
+      "type": "Gameplay / Progression Payoff",
+      "category": "gameplay",
+      "duration": "25s",
+      "text": "Let the fight justify the build screen.",
+      "overview": "I open on a losing position — the character surrounded by a swarm of enemies — before cutting to the talent selection screen. Rather than presenting the build system as a menu to browse on its own, I framed it as the direct answer to a fight that had just gone badly. What follows is a larger, more controlled engagement: a wide area-of-effect attack clearing a crowd of the same enemy type that had been overwhelming moments earlier. The two combat sequences stay visually close enough that the shift reads as a result of the choice made in between them — a bad fight, a decision, then a visible change in the outcome.",
+      "tags": [
+        "Problem–Decision–Payoff",
+        "Build Consequence",
+        "Progression Clarity"
+      ],
+      "video": "/media/more-20.mp4"
+    },
+    {
+      "name": "Aobi Island — Pre-Registration",
+      "type": "Gameplay / Lifestyle-Led Experience",
+      "category": "gameplay",
+      "duration": "23s",
+      "text": "Nothing here needs to be won.",
+      "overview": "I moved through a series of small, self-contained moments — feeding pigeons outside a café, fishing by a lake, sharing a picnic on the beach — without building toward combat, competition or a conventional gameplay payoff. Each vignette is brief, but together they establish a consistent lifestyle fantasy: slow, social and deliberately low-stakes. Varying the settings extends that feeling beyond any single activity, making the world itself the main attraction. Rather than focusing on what there is to win, I chose to focus on what it might feel like to spend time there.",
+      "tags": [
+        "Lifestyle Fantasy",
+        "World-Building",
+        "Low-Stakes Pacing"
+      ],
+      "video": "/media/more-21.mp4"
+    },
+    {
+      "name": "Terraria — Pre-Registration",
+      "type": "Gameplay / Feature-Led Voiceover",
+      "category": "gameplay",
+      "duration": "30s",
+      "text": "A warning that turns into a promise.",
+      "overview": "I opened the voiceover with a line that briefly sounds like a warning, then immediately turned that expectation around: in this 2D pixel world, there is no single path the player is forced to follow. What begins with tension becomes a simple promise of freedom. From there, the copy moves through the experience in short, direct fragments — the day-night cycle, combat, percussion and enemy hit sounds — each point paired to a gameplay moment that gives the words something immediate to land on. The closing shifts from explanation to invitation, asking the viewer if they're ready to begin exploring and build a Terraria world of their own. The idea was to make players feel less told what to do, and more shown how much room they have to choose.",
+      "tags": [
+        "Voiceover Misdirection",
+        "Feature-Led Copy",
+        "Player Freedom"
+      ],
+      "video": "/media/more-22.mp4"
+    },
+    {
+      "name": "Pixel Hero — Rhythm Concept",
+      "type": "Gameplay / Creative Mechanic Concept",
+      "category": "gameplay",
+      "duration": "28s",
+      "text": "Borrow a rhythm game's timing, keep the RPG's cast.",
+      "overview": "I reimagined Pixel Hero through the visual language of a rhythm game — timing windows, combo counters and judgement feedback — while keeping the game's existing characters and fantasy setting at the centre. Familiar rhythm-game feedback makes the concept immediately readable: successful inputs build the combo while attacks land against a boss, letting the borrowed mechanic and the RPG combat fantasy reinforce each other within a few seconds. Rather than presenting another variation of the game's usual combat, I used a familiar mechanic from another genre to explore a different way the same characters could be advertised and experienced.",
+      "tags": [
+        "Genre Mashup",
+        "Mechanic Reframing",
+        "Gameplay Concept"
+      ],
+      "video": "/media/more-23.mp4"
+    },
+    {
+      "name": "Pixel Hero — Bartending Concept",
+      "type": "Gameplay / Creative Mechanic Concept",
+      "category": "gameplay",
+      "duration": "21s",
+      "text": "Turn the RPG cast into bartenders.",
+      "overview": "I took Pixel Hero's fantasy characters out of their usual combat context and placed them inside a simple bartending loop — mixing, shaking and serving drinks in a tavern setting. The mechanic is intentionally easy to recognise, letting the character transformation itself become the hook. Instead of introducing another combat scenario, I used the familiar cast to sell a completely different kind of interaction and tone.",
+      "tags": [
+        "Genre Mashup",
+        "Character Reframing",
+        "Gameplay Concept"
+      ],
+      "video": "/media/more-24.mp4"
+    },
+    {
+      "name": "[QY] — Cinematic Montage",
+      "type": "Gameplay / Edited CG Sequence",
+      "category": "gameplay",
+      "duration": "28s",
+      "text": "No dialogue. Just escalation.",
+      "overview": "I built the piece entirely from existing CG footage — smaller character actions, combat effects, a boss reveal and finally a full party facing a massive enemy — with no voiceover or explanatory copy carrying the sequence. Instead, the edit builds through scale. Smaller, contained moments give way to increasingly larger encounters, with cuts landing around flashes, impacts and effect peaks to keep the rhythm connected to the visual energy on screen. The structure uses escalation itself as the idea: start small, increase the spectacle, and let the biggest image become the payoff.",
+      "tags": [
+        "Visual Pacing",
+        "Scale Escalation",
+        "Wordless Sequencing"
+      ],
+      "video": "/media/more-25.mp4"
+    },
+    {
+      "name": "Solare Revival — Game Overview",
+      "type": "Gameplay / World & Roster Overview",
+      "category": "gameplay",
+      "duration": "25s",
+      "text": "Sell the scale before explaining the details.",
+      "overview": "Rather than spending the runtime explaining a single feature, I built the piece around breadth — moving from character artwork into a sweeping world view, then expanding again into a large roster grid. Each transition reveals a different layer of the game while making the overall experience feel progressively bigger. The visual treatment shifts with each layer: painterly character imagery gives way to environmental scale, then to the density of the character collection. Instead of asking the viewer to understand individual systems, I wanted the scale of the cast and world to create the impression first. The approach turns a short game overview into a promise of scale: show how much there is before asking the viewer to understand how everything works.",
+      "tags": [
+        "Sense of Scale",
+        "World & Roster",
+        "Overview Structure"
+      ],
+      "video": "/media/more-26.mp4"
+    },
+    {
+      "name": "EVE — Licensed IP Trailer",
+      "type": "Gameplay / Licensed IP Authenticity",
+      "category": "gameplay",
+      "duration": "30s",
+      "text": "Prove the license with details real players would recognise.",
+      "overview": "For a licensed IP with an established player base, simply putting the EVE name on screen wasn't enough. I wanted the game itself to provide the proof, so after the opening statement, the piece moves directly into interface-heavy gameplay — combat logs, named star systems, ship navigation and a market filled with recognisable hulls. Instead of cleaning those systems away to make the footage more cinematic, I kept the density visible. The UI, terminology and system detail become authenticity cues, giving players familiar points of recognition while also communicating the depth of the sandbox underneath. The approach is built around recognition rather than introduction: don't just say it's EVE — show the details that make it feel like EVE.",
+      "tags": [
+        "IP Authenticity",
+        "Detail as Proof",
+        "Player Recognition"
+      ],
+      "video": "/media/more-27.mp4"
+    },
+    {
+      "name": "Light of Thel — Tactical",
+      "type": "Live-Action / Narrative Misdirection",
+      "category": "live-action",
+      "duration": "37s",
+      "text": "Not the movie you think it is.",
+      "overview": "I deliberately borrowed the visual language of tactical cinema for the opening — tight facial close-ups, restrained movement, a serious tone — designing everything to establish one expectation before the ad reveals what's actually happening. The key was committing to that tone long enough for the misdirection to work. Rather than signalling the joke early, I held the tension through the setup before cutting the reveal to two people on the street, watching the action unfold on a phone. That contrast turns the reveal into the payoff: cinematic tension first, an everyday gaming moment second. The shift in context reframes everything that came before it.",
+      "tags": [
+        "Narrative Misdirection",
+        "Live-Action Direction",
+        "Tonal Control"
+      ],
+      "video": "/media/more-28.mp4"
+    },
+    {
+      "name": "Light of Thel — Midnight Visitor",
+      "type": "Live-Action / Narrative Misdirection",
+      "category": "live-action",
+      "duration": "40s",
+      "text": "A ghost story that isn't one.",
+      "overview": "I committed the opening fully to horror-film language: an isolated character at night, restrained close-ups, an unexplained bandaged hand entering the frame. The pacing holds on uncertainty rather than explaining what's happening, letting the tension build before the game is introduced. Instead of paying that tension off with a conventional scare, I released it through an ordinary human reaction before cutting into the game reveal. That tonal release creates the contrast I was after — using horror conventions to build an expectation the ending deliberately refuses to fulfil.",
+      "tags": [
+        "Genre Misdirection",
+        "Tension & Release",
+        "Tonal Contrast"
+      ],
+      "video": "/media/more-29.mp4"
+    },
+    {
+      "name": "Light of Thel — Office Escape",
+      "type": "Live-Action / Relatable Contrast",
+      "category": "live-action",
+      "duration": "33s",
+      "text": "The escape was already happening next to him.",
+      "overview": "I open on a familiar moment of workplace pressure — a late-night screen, unfinished work, visible fatigue — before revealing a colleague nearby quietly playing the game on his phone. Rather than building toward a dramatic twist, I made the contrast visible almost from the start. The game sits naturally inside the everyday setting, positioning play as a small escape happening alongside the pressure of the workday. This one shifts from genre misdirection to relatable observation — using an ordinary situation to make the game feel like an immediate break from it.",
+      "tags": [
+        "Relatable Contrast",
+        "Everyday Gaming",
+        "Lifestyle Framing"
+      ],
+      "video": "/media/more-30.mp4"
+    },
+    {
+      "name": "Sausage Man — Hide and Seek",
+      "type": "Live-Action / New Mode Creative",
+      "category": "live-action",
+      "duration": "31s",
+      "text": "Turn the new mechanic into the joke.",
+      "overview": "I open on an immediate visual contradiction: a combat-ready character standing inside an ordinary office, using the live-action setup to introduce the absurd logic of hiding somewhere you clearly don't belong. That idea carries directly into the new hide-and-seek mode, where players can transform into objects to disguise themselves in the environment. Instead of explaining the mechanic through a conventional feature walkthrough, the live-action opening establishes the idea first, then lets the gameplay reveal how it actually works. The approach turns a new gameplay mechanic into the creative premise itself — set up the joke in live action, then deliver the mechanic as the payoff.",
+      "tags": [
+        "Mechanic-Led Concept",
+        "Live-to-Gameplay",
+        "New Mode Showcase"
+      ],
+      "video": "/media/more-31.mp4"
+    },
+    {
+      "name": "TapTap Game Awards — Nominees V2",
+      "type": "Social / Editorial Award Showcase",
+      "category": "social",
+      "duration": "32s",
+      "text": "Making information feel like momentum.",
+      "overview": "With nine award categories and multiple nominees in each, this piece had to carry a high volume of information without turning into a static list. The challenge was deciding what the viewer needed to read, hear and notice at any given moment. Voiceover provides the narrative thread while nominee grids, category graphics and selected gameplay moments create the visual hierarchy. Rather than giving every category identical weight, I varied the time and emphasis each section receives, keeping the sequence moving while preserving enough space for the information to register. The goal was to turn a dense nominee list into a paced editorial piece — structured enough to stay clear, but fast enough to feel like event content rather than an information reel.",
+      "tags": [
+        "Information Hierarchy",
+        "Editorial Pacing",
+        "Voiceover Structure"
+      ],
+      "video": "/media/more-32.mp4"
+    },
+    {
+      "name": "Ash Echoes — Incident Archive",
+      "type": "Social / Lore Teaser",
+      "category": "social",
+      "duration": "36s",
+      "text": "Not a trailer. A leaked incident report.",
+      "overview": "I open on disaster imagery from orbit before dropping into a free-falling view of a city breaking apart mid-air. Instead of explaining the event through conventional narration, timestamps and the \"Sky Rift Incident\" label frame what we're seeing as an archive from inside the game's world. That framing turns exposition into discovery. Rather than giving the audience a complete explanation of what happened, I left only fragments, scale and a name to attach to the event — keeping the mystery intact while introducing a larger piece of the game's lore.",
+      "tags": [
+        "In-World Framing",
+        "Lore Teasing",
+        "World Mystery"
+      ],
+      "video": "/media/more-33.mp4"
+    },
+    {
+      "name": "TapTap Game Awards — Did Your Game Make It?",
+      "type": "Social / Participatory Content",
+      "category": "social",
+      "duration": "35s",
+      "text": "Ask the audience before you answer them.",
+      "overview": "I presented genre clips inside a vertical, phone-shaped frame, using glitch textures and short prompts such as \"Solve the puzzle\" to turn each section into a quick category cue. Instead of ending on another title or award card, I turned the piece outward and asked the viewer whether their favourite game made the shortlist — presenting information, then inviting a response rather than closing the loop myself.",
+      "tags": [
+        "Direct Address",
+        "Feed-Native Framing",
+        "Audience Participation"
+      ],
+      "video": "/media/more-34.mp4"
+    },
+    {
+      "name": "Pay-to-Win Games — Find the Right App",
+      "type": "Social / Platform Tutorial",
+      "category": "social",
+      "duration": "33s",
+      "text": "Point at the icon, not just the platform.",
+      "overview": "The piece starts from a casual first-person phone moment before moving into a scrapbook-style sequence of game recommendations, keeping the format closer to something discovered in a feed than a conventional platform ad. The key information is delivered visually rather than verbally: where two similarly named apps could be confused, I pointed directly at the correct TapTap icon on screen — reducing ambiguity at the exact point where it could interrupt the next action.",
+      "tags": [
+        "Visual Guidance",
+        "Platform Clarity",
+        "Social-First Framing"
+      ],
+      "video": "/media/more-35.mp4"
+    },
+    {
+      "name": "TapTap — Brand Anthem MV",
+      "type": "Social / Brand Music Video",
+      "category": "social",
+      "duration": "29s",
+      "text": "Let a cartoon mascot sing the brand promise instead of saying it.",
+      "overview": "The piece opens on a self-deprecating tagline — \"protecting your game world, the foolish way\" — rendered in the same loose, hand-drawn visual language that carries through the entire MV. Instead of presenting the brand through a polished corporate statement, I let the imperfect style make the message feel more personal and playful. From there, the message is handed to a 2D animated mascot, weaving lyrics about persistence and not giving up directly into the character's journey. The brand's attitude is expressed through personality, music and emotion rather than explained as a list of values. It closes on the same hand-drawn visual language and a simple community hashtag, bringing the piece back to the audience — turning a brand statement into something closer to a shared sentiment.",
+      "tags": [
+        "Mascot-Led Messaging",
+        "Lyric-Driven Storytelling",
+        "Hand-Drawn Brand Identity"
+      ],
+      "video": "/media/more-36.mp4"
+    },
+    {
+      "name": "TapTap — Brand Manifesto",
+      "type": "Social / Brand Statement",
+      "category": "social",
+      "duration": "31s",
+      "text": "Earn the stance before you state it.",
+      "overview": "The piece spends most of its runtime inside different slices of player life — competitive wins, friends celebrating together, solo players at home and younger players sharing the same excitement. Rather than opening with a platform statement, I chose to begin with the people that statement is meant to represent. As the edit progresses, the tone shifts from celebration toward something more deliberate. The playful player moments give way to more restrained imagery, creating space for the platform's position to land without breaking the rhythm of the piece. Only then does the message become explicit: TapTap is willing to take a stance in pursuit of a better, more authentic gaming community. I built the statement as the conclusion to the player stories that came before it — players first, platform attitude second.",
+      "tags": [
+        "Player-Centred Framing",
+        "Brand Attitude",
+        "Community Storytelling"
+      ],
+      "video": "/media/more-37.mp4"
+    },
+    {
+      "name": "Snowbreak: Containment Zone — Cinematic Sequences",
+      "type": "Cinematography / UE Camera Direction & Editing",
+      "category": "cinematography",
+      "duration": "2 pieces, 29s each",
+      "text": "Compose the shot. Shape the sequence.",
+      "overview": "I blocked and rendered each shot in UE using the game's existing characters and environments, designing camera movement around character action, composition and visual detail — from wider establishing shots to tighter holds on expressions, weapons and movement. The shots were then edited into complete sequences, using changes in scale, movement and duration to build rhythm across each cut. Dialogue and character moments are timed into that structure rather than treated as separate layers added after the camera work. Both pieces bring the two stages of the process together: designing how each moment is seen, then shaping how those moments flow as a sequence.",
+      "tags": [
+        "UE Camera Direction",
+        "Shot Composition",
+        "Sequence Editing"
+      ],
+      "video": "/media/more-38-01.mp4",
+      "videos": [
+        {
+          "src": "/media/more-38-01.mp4",
+          "label": "Sequence 01"
+        },
+        {
+          "src": "/media/more-38-02.mp4",
+          "label": "Sequence 02"
+        }
+      ]
+    },
+    {
+      "name": "Specular Soul — Cinematic Sequence",
+      "type": "Cinematography / UE Camera Direction & Editing",
+      "category": "cinematography",
+      "duration": "18s / 38s",
+      "text": "One sequence, two different rhythms.",
+      "overview": "The piece is built from UE-rendered character shots, combining camera movement, character presentation and graphic elements into a roster-led cinematic sequence. Character cards and title graphics are timed around the footage, letting the visual identity become part of the edit rather than sitting separately from it. I developed the same material into both a fuller sequence and a shorter cut. Changing the duration meant rebalancing shot length, character emphasis and transition timing while preserving the overall visual flow.",
+      "tags": [
+        "UE Camera Direction",
+        "Multi-Length Editing",
+        "Character Pacing"
+      ],
+      "video": "/media/more-39.mp4"
+    },
+    {
+      "name": "Snowbreak: Containment Zone — Camera Studies",
+      "type": "Cinematography / UE Camera Studies",
+      "category": "cinematography",
+      "duration": "3 pieces, 11–15s each",
+      "text": "Exploring character through camera movement.",
+      "overview": "These three short studies isolate camera movement as the primary focus, using different characters and visual details to explore how framing, distance and motion change the way a character is presented. Each study takes a different approach — from slow reveals and close detail shots to wider orbital movement — with minimal editing or graphic treatment. Keeping the presentation stripped back puts the emphasis on camera blocking, composition and movement itself.",
+      "tags": [
+        "Camera Blocking",
+        "Shot Composition",
+        "Virtual Cinematography"
+      ],
+      "video": "/media/more-40-01.mp4",
+      "videos": [
+        {
+          "src": "/media/more-40-01.mp4",
+          "label": "Camera study 01"
+        },
+        {
+          "src": "/media/more-40-02.mp4",
+          "label": "Camera study 02"
+        },
+        {
+          "src": "/media/more-40-03.mp4",
+          "label": "Camera study 03"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Seasun Games",
+      "location": "Chengdu",
+      "date": "2025.12 — 2026.05",
+      "role": "Video Editor",
+      "project": "Creative Production & Project Coordination",
+      "body": "Led overseas creative production for Snowbreak: Containment Zone, from briefing and planning to partner coordination, multilingual review, QA, and delivery.",
+      "skills": [
+        [
+          "PM",
+          "Production",
+          "Brief intake, scheduling, resource coordination, stakeholder alignment, and delivery management."
+        ],
+        [
+          "QA",
+          "Review",
+          "Creative briefs, visual references, feedback consolidation, quality control, and final acceptance."
+        ],
+        [
+          "Data",
+          "Iteration",
+          "CTR, CVR, ROAS, and audience feedback informed creative iteration with marketing and UA teams."
+        ]
+      ]
+    },
+    {
+      "company": "Ujoy Network Technology",
+      "location": "Shanghai",
+      "date": "2022.03 — 2024.09",
+      "role": "Senior Creative Video Designer",
+      "project": "Marketing Team",
+      "body": "Developed marketing creatives for Ash Echoes, Pixel Heroes, Light of Thel, and AOF. Balanced concepts, scripting, production, external partners, and review across concurrent projects.",
+      "skills": [
+        [
+          "Ae",
+          "Design",
+          "After Effects, Premiere Pro, Photoshop, Illustrator, and Figma."
+        ],
+        [
+          "Brief",
+          "Creative",
+          "Concept development, scripting, storyboarding, visual references, and adaptation across genres and markets."
+        ],
+        [
+          "AI",
+          "Workflow",
+          "ChatGPT, Claude, Midjourney, Nano Banana, Seedream, Kling, Seedance, Runway, and prompt engineering."
+        ]
+      ]
+    },
+    {
+      "company": "XD Inc. · TapTap",
+      "location": "Shanghai",
+      "date": "2020.09 — 2022.03",
+      "role": "Video Designer",
+      "project": "Marketing Department",
+      "body": "Adapted video and marketing content across genres, audiences, and platforms. Studied player preferences, competitor campaigns, and top-performing content to develop creative directions.",
+      "skills": [
+        [
+          "Pr",
+          "Storytelling",
+          "Platform-native video content, creative adaptation, and visual storytelling."
+        ],
+        [
+          "3D",
+          "Additional",
+          "Maya, 3ds Max, Substance Painter, Mudbox, and UE4 Sequencer."
+        ],
+        [
+          "EN",
+          "Languages",
+          "Mandarin Chinese: native. English: IELTS 6.5."
+        ]
+      ]
+    }
+  ],
+  "studies": [
+    {
+      "name": "Strange Things in Bloom",
+      "type": "AI Visual Playground / Surreal Editorial",
+      "category": "ai-visual-playground",
+      "duration": "18s",
+      "text": "Treat the absurd like it's mundane.",
+      "overview": "I placed a model in tailored tweed beside a giant, weathered reptilian head, photographing both with the same flat, deadpan confidence of a high-fashion campaign. Nothing about the framing, lighting or expression treats the creature as strange — it's styled and lit exactly like a second model. The surrealism sits entirely in the premise; the execution stays completely straight.",
+      "tags": [
+        "Surreal Editorial",
+        "Deadpan Styling",
+        "Fashion Absurdism"
+      ],
+      "video": "/media/study-01.mp4"
+    },
+    {
+      "name": "Beautifully Broken",
+      "type": "AI Visual Playground / Character World-Building",
+      "category": "ai-visual-playground",
+      "duration": "7.2s",
+      "text": "Fragile by design. Built for a broken world.",
+      "overview": "How fragile can a character look while still reading as a survivor? I wanted a red-haired porcelain warrior standing against a ruined fortress landscape to combine the delicacy of a collectible doll with the visual language of a battle-worn survivor. Jointed limbs, painted features and crafted materials stay visible rather than being pushed toward realism. The environment extends that contrast outward — monumental ruins and a damaged skyline make the character feel small and fragile, while her warrior styling suggests someone built to survive inside it.",
+      "tags": [
+        "Character Contrast",
+        "Material Stylization",
+        "Post-Apocalyptic World-Building"
+      ],
+      "video": "/media/study-02.mp4"
+    },
+    {
+      "name": "Queen of Cocoons",
+      "type": "AI Visual Playground / Character World-Building",
+      "category": "ai-visual-playground",
+      "duration": "7.2s",
+      "text": "Make the beautiful feel slightly dangerous.",
+      "overview": "Can beauty and threat exist in the same visual language? I set a jewel-covered porcelain figure inside a bioluminescent web-filled environment, combining decorative beauty with imagery that feels organic, enclosed and slightly threatening. Rather than separating character and environment, the same sense of ornament runs through both — jewellery, reflective surfaces, glowing threads and intricate textures blur the line between something luxurious and something unsettling.",
+      "tags": [
+        "Beauty & Unease",
+        "Environmental Storytelling",
+        "Material Exploration"
+      ],
+      "video": "/media/study-03.mp4"
+    },
+    {
+      "name": "A Dream",
+      "type": "AI Visual Playground / Epic Environment",
+      "category": "ai-visual-playground",
+      "duration": "7.2s",
+      "text": "Make the viewer feel small on purpose.",
+      "overview": "I wanted scale to carry the emotion without relying on character performance: a lone figure walks toward a distant light while two colossal stone titans loom overhead, each carrying the weight of a floating, ruined castle on its back. I kept the human presence barely a silhouette — intentionally small against architecture built to dwarf it. The piece leans entirely on scale contrast to generate atmosphere: no action, no character detail, just a single walking figure measured against something incomprehensibly large.",
+      "tags": [
+        "Scale Contrast",
+        "Environment as Mood",
+        "Monumental World-Building"
+      ],
+      "video": "/media/study-04.mp4"
+    },
+    {
+      "name": "Memories in Fragments",
+      "type": "AI Visual Playground / Character World-Building",
+      "category": "ai-visual-playground",
+      "duration": "7.2s",
+      "text": "Build the character through what surrounds her.",
+      "overview": "Can environment reveal identity without dialogue? I placed a blonde porcelain figure inside a fractured ballroom of broken mirrors and suspended masks, letting reflections repeatedly split and obscure her silhouette across the space. The environment becomes part of the character study rather than simply a backdrop. Mirrors multiply her image, masks introduce alternate faces, and fragmented reflections prevent any single view of the character from feeling complete.",
+      "tags": [
+        "Environmental Storytelling",
+        "Fragmented Identity",
+        "Surreal Composition"
+      ],
+      "video": "/media/study-05.mp4"
+    },
+    {
+      "name": "Too Much in My Head",
+      "type": "AI Visual Playground / Subjective Visual Study",
+      "category": "ai-visual-playground",
+      "duration": "7.2s",
+      "text": "Bend the whole city around one feeling.",
+      "overview": "I used a fisheye lens to curve the entire frame around a single figure standing in the middle of a rain-soaked crossing, hands pressed to her head, letting neon signage and surrounding figures stretch toward the edges of the image. I didn't want the distortion to be decorative — I used it to shape how the scene feels. Perspective, scale and peripheral movement all bend around the character, turning an ordinary city crossing into a subjective expression of sensory overload.",
+      "tags": [
+        "Lens as Emotion",
+        "Subjective Perspective",
+        "Visual Distortion"
+      ],
+      "video": "/media/study-06.mp4"
+    },
+    {
+      "name": "Escape",
+      "type": "AI Visual Playground / Narrative Thriller",
+      "category": "ai-visual-playground",
+      "duration": "27s",
+      "text": "Let an ordinary place become the scary part.",
+      "overview": "I built the scene around a woman running through a sterile, fluorescent-lit corporate corridor as a shadowy figure closes in behind her. Familiar details — office lighting, an ID badge, everyday objects — keep the setting grounded even as something impossible enters it. Rather than transforming the environment into an obviously stylised horror space, I kept the location deliberately mundane. The tension comes from placing an unfamiliar threat inside a setting that should feel completely ordinary.",
+      "tags": [
+        "Mundane Horror",
+        "Narrative Tension",
+        "Reality Contrast"
+      ],
+      "video": "/media/study-07.mp4"
+    },
+    {
+      "name": "Same Girl, Different Days",
+      "type": "AI Visual Playground / Character Consistency Study",
+      "category": "ai-visual-playground",
+      "duration": "8.2s",
+      "text": "Same character. Different emotional register.",
+      "overview": "I placed the same character twice in the same neon-lit street — first playful and confrontational, then quieter and withdrawn — keeping her defining features, styling and environment consistent while letting expression, posture and energy shift between the two moments. The study explores a simple consistency problem: keeping a generated character recognisably the same without locking her into a single expression or personality beat. Rather than treating consistency as exact repetition, I used emotional variation to test how much can change while the character identity still holds.",
+      "tags": [
+        "Character Consistency",
+        "Emotional Range",
+        "Identity Preservation"
+      ],
+      "video": "/media/study-08.mp4"
+    }
+  ],
+  "scripts": [
+    {
+      "id": "ae01",
+      "title": "AE01",
+      "subtitle": "Gacha Rewards — UA Creative",
+      "description": "A character-led creative that turns gacha frustration into a reward reveal, then builds momentum through character pulls and combat highlights.",
+      "shots": [
+        {
+          "n": 1,
+          "reference": {
+            "src": "/scripts/AE01-shot-01.png",
+            "alt": "AE01 storyboard reference for shot 01"
+          },
+          "scene": "Close-up on the host character, crestfallen, a dejected sticker overlay flashing beside her",
+          "line": "Still grinding for that guaranteed pull?! Your ten-pulls keep coming up empty!"
+        },
+        {
+          "n": 2,
+          "scene": "Same close-up flips to a beaming expression, celebratory stickers bounce in, confetti bursts behind her",
+          "line": "Now we've got great news for you — unprecedented rewards, just for you!"
+        },
+        {
+          "n": 3,
+          "scene": "Sticker shakes with excitement; her portrait flips like a trading card to a higher-tier art",
+          "line": "This is the moment fate changes. Ready?"
+        },
+        {
+          "n": 4,
+          "reference": {
+            "src": "/scripts/AE01-shot-04.png",
+            "alt": "AE01 storyboard reference for shot 04"
+          },
+          "scene": "Flash transition, \"150 pulls\" bursts forward in perspective as the screen shakes",
+          "line": "Pre-register now for up to 150 free pulls!"
+        },
+        {
+          "n": 5,
+          "scene": "Four characters check-board in around the flattening \"150 pulls\" title",
+          "line": "A grand gacha event is live — don't miss your last chance!"
+        },
+        {
+          "n": 6,
+          "scene": "Cut to a live gacha-pull screen recording",
+          "line": "Now! This is the moment — pull the rarest character!"
+        },
+        {
+          "n": 7,
+          "reference": {
+            "src": "/scripts/AE01-shot-07.png",
+            "alt": "AE01 storyboard reference for shot 07"
+          },
+          "scene": "Pull result reveal: a radiant rare character bursts out under flashy light FX, close-up",
+          "line": "Ohhh — ohhh — ohhh!!"
+        },
+        {
+          "n": 8,
+          "scene": "Five- and six-star characters flash into frame one after another, each ringed in particle light",
+          "line": "There it is, there it is! Beauty and power in one character!"
+        },
+        {
+          "n": 9,
+          "reference": {
+            "src": "/scripts/AE01-shot-09.png",
+            "alt": "AE01 storyboard reference for shot 09"
+          },
+          "scene": "Three six-star characters unleash their ultimates in rapid cuts",
+          "line": "Gorgeous combat, an electrifying ride — sweep your enemies with your strongest skill!"
+        }
+      ]
+    },
+    {
+      "id": "ae02",
+      "title": "AE02",
+      "subtitle": "Meet Your Next Companion — UA Creative",
+      "description": "A roster-led creative that introduces the cast, reveals pre-registration rewards, and closes with a character invitation.",
+      "shots": [
+        {
+          "n": 1,
+          "reference": {
+            "src": "/scripts/AE02-shot-01.png",
+            "alt": "AE02 storyboard reference for shot 01"
+          },
+          "scene": "Full roster of eleven characters scrolls sideways across the frame"
+        },
+        {
+          "n": 2,
+          "reference": {
+            "src": "/scripts/AE02-shot-02.png",
+            "alt": "AE02 storyboard reference for shot 02"
+          },
+          "scene": "Bold title flares in from the side, shudders, flashes to white",
+          "line": "Who's your next companion?"
+        },
+        {
+          "n": 3,
+          "scene": "Roster keeps sliding behind the title card",
+          "line": "Pre-register now for up to 150 free pulls!"
+        },
+        {
+          "n": 4,
+          "scene": "Roster slides on as the title bursts out with a shake and a confetti pop",
+          "line": "A fateful gacha — take the challenge now!"
+        },
+        {
+          "n": 5,
+          "scene": "Cut to a live gacha-pull screen recording"
+        },
+        {
+          "n": 6,
+          "reference": {
+            "src": "/scripts/AE02-shot-06.png",
+            "alt": "AE02 storyboard reference for shot 06"
+          },
+          "scene": "Pull result reveal: a radiant rare character bursts out under flashy light FX, close-up"
+        },
+        {
+          "n": 7,
+          "scene": "Five- and six-star characters flash in at a readable pace, each ringed in particle light",
+          "line": "So many — there's actually this many. This is amazing!"
+        },
+        {
+          "n": 8,
+          "scene": "Group lineup with overlapping character voice lines building a lively crowd feel",
+          "line": "Don't miss this — pre-register for even more surprise rewards!"
+        },
+        {
+          "n": 9,
+          "scene": "Gift-code popup types itself out, a tap sends rewards bursting across the screen"
+        },
+        {
+          "n": 10,
+          "reference": {
+            "src": "/scripts/AE02-shot-10.png",
+            "alt": "AE02 storyboard reference for shot 10"
+          },
+          "scene": "Closing shot: the host character relaxes over tea",
+          "line": "So many rewards — we'll be waiting for you here, director!"
+        }
+      ]
+    },
+    {
+      "id": "qy06",
+      "title": "QY06",
+      "subtitle": "QY06 — Reference creative",
+      "description": "Reference video for QY06. Script copy and storyboard images are being revised.",
+      "referenceVideo": "/media/script-qy06-reference.mp4",
+      "shots": []
+    }
+  ],
+  "categories": [
+    {
+      "slug": "gameplay",
+      "title": "Gameplay",
+      "description": "Real gameplay moments reframed into hooks that make the experience itself the pitch."
+    },
+    {
+      "slug": "character",
+      "title": "Character",
+      "description": "Character-driven visuals that turn personality and fantasy into an emotional hook."
+    },
+    {
+      "slug": "campaign",
+      "title": "Campaign",
+      "description": "Time-boxed event creative that makes a limited moment feel worth acting on now."
+    },
+    {
+      "slug": "social",
+      "title": "Social",
+      "description": "Brand and platform content that carries a game's world into social, lifestyle formats."
+    },
+    {
+      "slug": "live-action",
+      "title": "Live-Action",
+      "description": "High-concept live-action narratives that turn a game into a story worth watching."
+    },
+    {
+      "slug": "cinematography",
+      "title": "Cinematography",
+      "description": "UE-driven camera work that turns character, action and environment into deliberate visual storytelling."
+    }
+  ]
+}
